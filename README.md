@@ -6,5 +6,3 @@
 # Have a nice day! 😘
 
 ![pandamod](http://pandamod.net/pandamod/logo.png)
-
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
