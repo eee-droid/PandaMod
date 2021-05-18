@@ -5,4 +5,4 @@
 
 # Have a nice day! 😘
 
-![pandamod](http://pandamod.net/pandamod/logo.png)
+![pandamod](http://suchtcraft.net/pandamod/logo.png)
