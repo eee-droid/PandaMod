@@ -15,6 +15,6 @@
 ## SuchtCraft Updates:
 
 ### Spawn-Plot Verkäufer
-[![Spawn-Plot Verkäufer](http://pandamod.net/github/img/SpawnPlot-Verk%C3%A4ufer.png)](https://www.youtube.com/watch?v=FO0lOSSWRIQ "Spawn-Plot Verkäufer")
+[![Spawn-Plot Verkäufer](http://pandamod.net/github/img/Spawn-Plot-Verk%C3%A4ufer.png)](https://www.youtube.com/watch?v=FO0lOSSWRIQ "Spawn-Plot Verkäufer")
 
 ### CaseOpening (coming)
