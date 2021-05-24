@@ -5,7 +5,7 @@
 
 ## Private plugins:
 
-[CaseOpening](https://github.com/CaseOpening/#v0.1-BETA)
+[CaseOpening](https://github.com/PandaMod/CaseOpening/#v0.1-BETA)
 
 # Have a nice day! 😘
 
