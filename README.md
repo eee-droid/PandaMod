@@ -13,3 +13,5 @@
 
 # My server is: SuchtCraft.net
 ## SuchtCraft Updates:
+
+[![Spawn-Plot Verkäufer](https://img.youtube.com/vi/FO0lOSSWRIQ/0.jpg)](https://www.youtube.com/watch?v=FO0lOSSWRIQ)
