@@ -11,7 +11,7 @@
 
 ![pandamod](http://suchtcraft.net/pandamod/logo.png)
 
-# My server is: SuchtCraft.net
+# My server: SuchtCraft.net
 ## SuchtCraft Updates:
 
 ### Spawn-Plot Verkäufer
