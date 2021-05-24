@@ -10,3 +10,6 @@
 # Have a nice day! 😘
 
 ![pandamod](http://suchtcraft.net/pandamod/logo.png)
+
+# My server is: SuchtCraft.net
+## SuchtCraft Updates:
