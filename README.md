@@ -17,6 +17,4 @@
 ### Spawn-Plot Verkäufer
 [![Spawn-Plot Verkäufer](https://img.youtube.com/vi/FO0lOSSWRIQ/0.jpg)](https://www.youtube.com/watch?v=FO0lOSSWRIQ "Spawn-Plot Verkäufer")
 
-[![Spawn-Plot Verkäufer](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
 ### CaseOpening (coming)
