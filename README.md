@@ -17,4 +17,6 @@
 ### Spawn-Plot Verkäufer
 [![Spawn-Plot Verkäufer](https://img.youtube.com/vi/FO0lOSSWRIQ/0.jpg)](https://www.youtube.com/watch?v=FO0lOSSWRIQ)
 
+[![Spawn-Plot Verkäufer](https://img.youtube.com/vi/FO0lOSSWRIQ/0.jpg)](https://www.youtube.com/watch?v=FO0lOSSWRIQ "Spawn-Plot Verkäufer")
+
 ### CaseOpening (coming)
