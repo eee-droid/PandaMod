@@ -1,7 +1,7 @@
 # Hi, my name is Lukas 👋
 ## My public plugins:
 
-[???](https://github.com/PandaMod/#v0.1-BETA)
+- [???](https://github.com/PandaMod/#v0.1-BETA)
 
 ## Private plugins:
 
