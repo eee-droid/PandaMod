@@ -5,8 +5,8 @@
 
 ## Private plugins:
 
-[CaseOpening](https://github.com/PandaMod/CaseOpening/#v0.1-BETA)
-[Portalraum](https://github.com/PandaMod/Portalraum/#v0.1-BETA)
+- [CaseOpening](https://github.com/PandaMod/CaseOpening/#v0.1-BETA)
+- [Portalraum](https://github.com/PandaMod/Portalraum/#v0.1-BETA)
 
 # Have a nice day! 😘
 
